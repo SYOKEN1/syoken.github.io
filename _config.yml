@@ -11,8 +11,8 @@ github_repo: "" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar:      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "A high school studen"
+sidebar-avatar: file///C/Users/25044/Downloads/AwaSubaru.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
